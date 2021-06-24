@@ -1,0 +1,106 @@
+﻿  mainProg.c
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\mainprog.c(18): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[6]'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\mainprog.c(18): warning C4024: 'Ask_for_dayoff': different types for formal and actual parameter 1
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\mainprog.c(28): warning C4047: 'function': 'int *' differs in levels of indirection from 'int *[6]'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\mainprog.c(28): warning C4024: 'Find_schedule': different types for formal and actual parameter 4
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\mainprog.c(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\mainprog.c(37): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  ProgFuncs.c
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(37): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(105): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(114): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(123): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(132): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(65): warning C4101: 'currDay': unreferenced local variable
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(66): warning C4101: 'fp': unreferenced local variable
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(207): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(275): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(309): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(579): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(580): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(581): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(582): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(590): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(618): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(619): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(620): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(621): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(629): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(657): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(658): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(659): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(660): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(668): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(691): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(707): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(722): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(735): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(736): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(766): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(780): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(790): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(800): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(837): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(873): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(883): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(889): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(963): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(972): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(979): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(988): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(999): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Generating Code...
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(180): warning C4715: 'Analize_row': not all control paths return a value
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(874): warning C4172: returning address of local variable or temporary: errorDay
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(884): warning C4172: returning address of local variable or temporary: errorTime
+c:\users\shova\documents\visual studio 2015\projects\scheduleproject\scheduleproject\progfuncs.c(890): warning C4172: returning address of local variable or temporary: errorDuration
+  ScheduleProject.vcxproj -> C:\Users\shova\Documents\Visual Studio 2015\Projects\ScheduleProject\Debug\ScheduleProject.exe
+  ScheduleProject.vcxproj -> C:\Users\shova\Documents\Visual Studio 2015\Projects\ScheduleProject\Debug\ScheduleProject.pdb (Full PDB)
